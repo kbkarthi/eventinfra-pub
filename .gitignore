@@ -1,0 +1,3 @@
+eventinfra-pub/bin/*
+eventinfra-pub/obj/*
+eventinfra-pub/.vs/*
